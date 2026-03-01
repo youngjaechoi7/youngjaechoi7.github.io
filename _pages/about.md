@@ -12,7 +12,7 @@ Feel free to email :)
 
 ## Education
 
-2024.09. ~ 🏫 **M.S. Course** Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab (Prof. Seunghoon Woo)**<br>
+2024.09. ~ 🏫 **Master's Course** Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab (Prof. Seunghoon Woo)**<br>
 2024.02. 🏫 **B.S.** ICT Convergence Engineering, **Seoul National University of Science and Technology(SEOULTECH), *GPA: 4.21/4.5<br>***
 
 ## Publications
