@@ -12,8 +12,8 @@ Feel free to email :)
 
 ## Education
 
-2024.09. ~ 🏫 **M.S. Course** Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab. (Prof. Seunghoon Woo)**<br>
-2024.02. 🏫 **B.S.** ICT Convergence Engineering, **Seoul National University of Science and Technology, *GPA: 4.21/4.5 (2nd Place)<br>***
+2024.09. ~ 🏫 **M.S. Course** Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab (Prof. Seunghoon Woo)**<br>
+2024.02. 🏫 **B.S.** ICT Convergence Engineering, **Seoul National University of Science and Technology(SEOULTECH), *GPA: 4.21/4.5<br>***
 
 ## Publications
 👑: Top-Tier Conference
@@ -23,7 +23,7 @@ Feel free to email :)
 <font size = 4>2025</font>
 
 **<u>Youngjae Choi</u>**, Seunghoon Woo - TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique [[Paper]](/images/ICSE25.pdf) [[Slide]](/images/ICSE2025%20presentation.pdf) [[article1]](https://www.kfenews.co.kr/news/articleView.html?idxno=638650) [[article2]](https://www.dailysecu.com/news/articleView.html?idxno=166742) [[article3]](https://www.digitaltoday.co.kr/news/articleView.html?idxno=569997)<br>
-👑 47th International Conference on Software Engineering (ICSE 2025)
+👑 47th International Conference on Software Engineering (ICSE 2025), Ottawa, Canada
 
 ### Domestic
 ---
@@ -33,21 +33,23 @@ Feel free to email :)
 
 ## Experiences
 
-2025.03 ~ 2025.06 **Teaching Assistant.** [COSE451] Software Security, Korea University. <br>
+2025.03 ~ 2025.06 **Teaching Assistant**, [COSE451] Software Security, Korea University <br>
 2024.12 ~ 2025.03 **Internship.** AUTOCRYPT <br>
-2024.09 ~ 2024.12 **Teaching Assistant.** [SWS123] Open-source Software Security, Korea University. <br>
-2024.03 ~ 2024.09 **Research Intern.** Software Security & Privacy Lab, Korea University. (Prof. Seunghoon Woo) <br>
-2022.06 ~ 2023.09 **Undergraduate Researcher.** Seoul National University of Science and Technology.
+2024.09 ~ 2024.12 **Teaching Assistant**, [SWS123] Open-source Software Security, Korea University <br>
+2024.03 ~ 2024.09 **Research Intern**, Software Security & Privacy Lab, Korea University (Prof. Seunghoon Woo) <br>
+2022.06 ~ 2023.09 **Undergraduate Researcher**, SEOULTECH
 
 ## Awards and Achievements
+<font size = 4>2026</font><br>
+**Asigned CVE-2026-28390**, OpenSSL<br>
 <font size = 4>2024</font><br>
-**Outstanding Freshman Scholarship**, Korea University.<br>
+**Outstanding Freshman Scholarship**, Korea University<br>
 <font size = 4>2023</font><br>
-**Scholarship for academic excellence**, Seoul National University of Science and Technology.<br>
+**Scholarship for academic excellence**, SEOULTECH<br>
 <font size = 4>2022</font><br>
-**Governments Business Scholarship**, Seoul National University of Science and Technology.<br>
-**Excellence Award**, Book review contest, Seoul National University of Science and Technology.<br>
-**KISTI Director’s Award**, Korea Institute of Science and Technology Information.
+**Governments Business Scholarship**, SEOULTECH<br>
+**Excellence Award**, Book review contest, SEOULTECH<br>
+**KISTI Director’s Award**, Korea Institute of Science and Technology Information
 
 ## Research Interests
 
