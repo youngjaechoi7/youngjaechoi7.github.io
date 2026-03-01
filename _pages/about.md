@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <!-- Youngjae Choi -->
-✉️ youngjaechoi@korea.ac.kr <br>
+✉️ youngjaechoi [at] korea.ac.kr <br>
 Feel free to email :) 
 
 ## Education
