@@ -40,16 +40,15 @@ Feel free to email :)
 2022.06 ~ 2023.09 **Undergraduate Researcher**, SEOULTECH
 
 ## Awards and Achievements
-<font size = 4>2026</font><br>
-**Asigned CVE-2026-28390**, OpenSSL<br>
-<font size = 4>2024</font><br>
-**Outstanding Freshman Scholarship**, Korea University<br>
-<font size = 4>2023</font><br>
-**Scholarship for academic excellence**, SEOULTECH<br>
-<font size = 4>2022</font><br>
-**Governments Business Scholarship**, SEOULTECH<br>
-**Excellence Award**, Book review contest, SEOULTECH<br>
-**KISTI Director’s Award**, Korea Institute of Science and Technology Information
+
+| Year | Award & Achievements |
+|------|-------|
+| 2026 | **Assigned CVE-2026-28390**, OpenSSL |
+| 2024 | **Outstanding Freshman Scholarship**, Korea University |
+| 2023 | **Scholarship for Academic Excellence**, SEOULTECH |
+| 2022 | **Government Business Scholarship**, SEOULTECH |
+| 2022 | **Excellence Award**, Book Review Contest, SEOULTECH |
+| 2022 | **KISTI Director’s Award**, Korea Institute of Science and Technology Information |
 
 ## Research Interests
 
