@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Youngjae Choi"
 title_separator          : "-"
 name                     : &name "Youngjae Choi"
-description              : &description "Combined Master's and Doctoral Program"
+description              : &description "Integrated Master & Ph.D. Course"
 url                      : "https://youngjaechoi7.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youngjaechoi7/youngjaechoi7.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "3.jpg"
   name             : "Youngjae Choi"
   pronouns         : # example: "she/her"  
-  bio              : "Combined Master's and Doctoral Program"
+  bio              : "Integrated Master & Ph.D. Course"
   location         : "Seoul"
   employer         : 
   uri              : # URL
