@@ -14,7 +14,7 @@ redirect_from:
 ## Education
 
 **Korea University** *(2024.09 – Present)*  
-M.S. Course, Department of Computer Science and Engineering  
+Master Course, Department of Computer Science and Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
 
 **Seoul National University of Science and Technology (SEOULTECH)** *(2024.02)*  
