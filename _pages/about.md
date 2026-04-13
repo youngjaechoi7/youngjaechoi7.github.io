@@ -13,12 +13,12 @@ redirect_from:
 
 ## Education
 
-**Korea University** *(2024.09 – Present)*
-M.S. Course, Computer Science and Engineering
-Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
+**Korea University** *(2024.09 – Present)*  
+M.S. Course, Department of Computer Science and Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
 
-**Seoul National University of Science and Technology (SEOULTECH)** *(2024.02)*
-B.S., ICT Convergence Engineering — GPA: 4.21/4.5 (2/63)
+**Seoul National University of Science and Technology (SEOULTECH)** *(2024.02)*  
+B.S., ICT Convergence Engineering, GPA: 4.21/4.5 (2nd / 63)
 
 ---
 
