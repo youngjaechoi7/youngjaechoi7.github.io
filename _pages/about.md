@@ -49,17 +49,13 @@ B.S., ICT Convergence Engineering, GPA: 4.21/4.5 (2nd / 63)
 ## Experience
 
 **Teaching Assistant**, Korea University *(2025.03 – 2025.06)*
-[COSE451] Software Security
-
-**Internship**, AUTOCRYPT *(2024.12 – 2025.03)*
-
+[COSE451] Software Security  
+**Internship**, AUTOCRYPT *(2024.12 – 2025.03)*  
 **Teaching Assistant**, Korea University *(2024.09 – 2024.12)*
-[SWS123] Open-source Software Security
-
+[SWS123] Open-source Software Security  
 **Research Intern**, Korea University *(2024.03 – 2024.09)*
-Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
-
-**Undergraduate Researcher**, SEOULTECH *(2022.06 – 2023.09)*
+Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)  
+**Undergraduate Researcher**, SEOULTECH *(2022.06 – 2023.09)*  
 
 ---
 
