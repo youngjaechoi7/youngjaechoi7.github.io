@@ -9,16 +9,12 @@ redirect_from:
 
 ✉ youngjaechoi@korea.ac.kr &nbsp;·&nbsp; Feel free to email :)
 
----
+--- 
+## Research Interests
 
-## Education
-
-**Korea University** *(2024.09 – Present)*  
-Master Course, Department of Computer Science and Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
-
-**Seoul National University of Science and Technology (SEOULTECH)** *(2024.02)*  
-B.S., ICT Convergence Engineering, GPA: 4.21/4.5 (2nd / 63)
+- Open-source software security
+- Software supply chain security
+- Software composition analysis
 
 ---
 
@@ -46,6 +42,17 @@ B.S., ICT Convergence Engineering, GPA: 4.21/4.5 (2nd / 63)
 
 ---
 
+## Education
+
+**Korea University** *(2024.09 – Present)*  
+Master Course, Department of Computer Science and Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
+
+**Seoul National University of Science and Technology (SEOULTECH)** *(2024.02)*  
+B.S., ICT Convergence Engineering, GPA: 4.21/4.5
+
+---
+
 ## Experience
 
 **Teaching Assistant**, Korea University *(2025.03 – 2025.06)*
@@ -63,19 +70,12 @@ Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
 
 | Year | Award |
 |------|-------|
+| 2026 | **Invited Talk for Top Conference Track**, Korea Computer Congress (KCC 2026) |
 | 2024 | **Outstanding Freshman Scholarship**, Korea University |
 | 2023 | **Scholarship for Academic Excellence**, SEOULTECH |
 | 2022 | **Government Business Scholarship**, SEOULTECH |
 | 2022 | **Excellence Award**, Book Review Contest, SEOULTECH |
 | 2022 | **KISTI Director's Award**, Korea Institute of Science and Technology Information |
-
----
-
-## Research Interests
-
-- Open-source software vulnerability detection
-- Software supply chain security
-- Software composition analysis
 
 ---
 
