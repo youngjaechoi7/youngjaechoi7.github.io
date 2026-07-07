@@ -21,7 +21,8 @@ repository               : "youngjaechoi7/youngjaechoi7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "3.jpg"
+  # avatar           : "3.jpg"
+  avatar           : "glass.jpg"
   name             : "Youngjae Choi"
   pronouns         : # example: "she/her"  
   bio              : "Integrated Master & Ph.D. Course"
