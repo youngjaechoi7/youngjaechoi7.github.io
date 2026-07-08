@@ -44,11 +44,15 @@ redirect_from:
 
 ## Education
 
-**Korea University** *(2024.09 – Present)*  
+🎓 **Korea University** *(2026.09 - present)*  
+Ph.D. Course, Department of Computer Science and Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
+
+🎓 **Korea University** *(2026.09)*  
 Master Course, Department of Computer Science and Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
 
-**Seoul National University of Science and Technology (SEOULTECH)** *(2024.02)*  
+🎓 **Seoul National University of Science and Technology (SEOULTECH)** *(2024.02)*  
 B.S., ICT Convergence Engineering, GPA: 4.21/4.5
 
 ---
@@ -70,7 +74,7 @@ Software Security & Privacy Lab (Advisor: Prof. Seunghoon Woo)
 
 | Year | Award |
 |------|-------|
-| 2026 | **Invited Talk for Top Conference Track**, Korea Computer Congress (KCC 2026) |
+| 2026 | **Invited Talk for Top Conference Session**, Korea Computer Congress (KCC 2026) |
 | 2024 | **Outstanding Freshman Scholarship**, Korea University |
 | 2023 | **Scholarship for Academic Excellence**, SEOULTECH |
 | 2022 | **Government Business Scholarship**, SEOULTECH |
